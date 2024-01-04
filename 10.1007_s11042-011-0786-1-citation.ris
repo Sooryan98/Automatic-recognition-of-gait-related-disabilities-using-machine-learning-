@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Pogorelc, Bogdan
+AU  - Bosnić, Zoran
+AU  - Gams, Matjaž
+PY  - 2012
+DA  - 2012/05/01
+TI  - Automatic recognition of gait-related health problems in the elderly using machine learning
+JO  - Multimedia Tools and Applications
+SP  - 333
+EP  - 354
+VL  - 58
+IS  - 2
+AB  - This paper proposes a system for the early automatic recognition of health problems that manifest themselves in distinctive form of gait. Purpose of the system is to prolong the autonomous living of the elderly at home. When the system identifies a health problem, it automatically notifies a physician and provides an explanation of the automatic diagnosis. The gait of the elderly user is captured using a motion-capture system, which consists of body-worn tags and wall-mounted sensors. The positions of the tags are acquired by the sensors and the resulting time series of position coordinates are analyzed with machine-learning algorithms in order to recognize a specific health problem. Novel semantic features based on medical knowledge for training a machine-learning classifier are proposed in this paper. The classifier classifies the user’s gait into: 1) normal, 2) with hemiplegia, 3) with Parkinson’s disease, 4) with pain in the back and 5) with pain in the leg. The studies of 1) the feasibility of automatic recognition and 2) the impact of tag placement and noise level on the accuracy of the recognition of health problems are presented. The experimental results of the first study (12 tags, no noise) showed that the k-nearest neighbors and neural network algorithms achieved classification accuracies of 100%. The experimental results of the second study showed that classification accuracy of over 99% is achievable using several machine-learning algorithms and 8 or more tags with up to 15 mm standard deviation of noise. The results show that the proposed approach achieves high classification accuracy and can be used as a guide for further studies in the increasingly important area of Ambient Assisted Living. Since the system uses semantic features and an artificial-intelligence approach to interpret the health state, provides a natural explanation of the hypothesis and is embedded in the domestic environment of the elderly person; it is an example of the semantic ambient media for Ambient Assisted Living.
+SN  - 1573-7721
+UR  - https://doi.org/10.1007/s11042-011-0786-1
+DO  - 10.1007/s11042-011-0786-1
+ID  - Pogorelc2012
+ER  - 
