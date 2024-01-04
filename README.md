@@ -1,5 +1,5 @@
-# Automatic-recognition-of-gait-related-disabilities-using-machine-learning-
-Title: GaitDisabilityML
+
+GaitDisabilityML
 
 Description:
 GaitDisabilityML represents an open-source initiative dedicated to the automated identification of gait-related disabilities through the application of advanced machine learning methodologies. The project employs a diverse array of algorithms, including k-Nearest Neighbors (kNN), Dense Neural Networks (DNN), Long Short-Term Memory (LSTM), and others, with the overarching goal of contributing to the progression of assistive technologies. This contribution seeks to furnish a robust and precise solution for the identification and comprehension of gait impairments.
