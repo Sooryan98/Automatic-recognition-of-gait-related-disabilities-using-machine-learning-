@@ -2,7 +2,7 @@
 GaitDisabilityML
 
 Description:
-GaitDisabilityML represents an open-source initiative dedicated to the automated identification of gait-related disabilities through the application of advanced machine learning methodologies. The project employs a diverse array of algorithms, including k-Nearest Neighbors (kNN), Dense Neural Networks (DNN), Long Short-Term Memory (LSTM), and others, with the overarching goal of contributing to the progression of assistive technologies. This contribution seeks to furnish a robust and precise solution for the identification and comprehension of gait impairments.
+GaitDisabilityML represents an open-source initiative dedicated to the automated identification of gait-related disabilities through the application of advanced machine learning methodologies. The project employs a diverse array of algorithms, including k-nearest Neighbors (kNN), Dense Neural Networks (DNN), Long Short-Term Memory (LSTM), and others, with the overarching goal of contributing to the progression of assistive technologies. This contribution seeks to furnish a robust and precise solution for the identification and comprehension of gait impairments. The disabilities recognized currently are: Parkinson's Disease and Stroke with the ability to extend to identifying Pain in the leg and Pain in the back
 
 Key Features:
 1. **Data Acquisition:** Employing OpenCV and MediaPipe, the project extracts pertinent information from a recorded video sourced from an Android phone. This process, centered on simplicity, ensures the efficient collection of data vital for gait analysis.
