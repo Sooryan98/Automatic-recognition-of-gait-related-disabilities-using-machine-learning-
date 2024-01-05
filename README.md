@@ -17,3 +17,4 @@ Key Features:
 
 GaitDisabilityML distinguishes itself from analogous research, particularly the referenced paper [here](https://link.springer.com/article/10.1007/s11042-011-0786-1), through the adoption of a methodologically divergent approach. Notably, this initiative emphasizes accessibility, utilizing commonplace technology such as phone-recorded videos and MediaPipe Pose Estimation in lieu of specialized equipment like IR retroreflective tags and motion capture cameras. The chosen methodology not only enhances accessibility but also ensures compatibility with widely available resources. Importantly, the features employed in the referenced paper are meticulously replicated in this project, facilitating a rigorous and meaningful comparative analysis.
 
+![ezgif com-optimize (1)](https://github.com/Sooryan98/GaitDisabilityML/assets/67855335/3fba2eeb-12ea-4c82-aa4e-897c6ebfef0c)
